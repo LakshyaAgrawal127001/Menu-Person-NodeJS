@@ -1,7 +1,9 @@
-#Step 1 -> clone this repo
-#step 2 ->  npm init
-#step 3 ->  npm i express
-#step 4 ->  npm i nodemon
-#step 5 ->  npm i mongoose
-#step 6 ->  npm i body-parser
-#step 7 ->  npx nodemon server.js
+<ul>
+  <li>#Step 1 -> clone this repo </li>
+  <li>#step 2 ->  npm init </li>
+  <li>#step 3 ->  npm i express </li>
+  <li>#step 4 ->  npm i nodemon </li>
+  <li>#step 5 ->  npm i mongoose </li>
+  <li>#step 6 ->  npm i body-parser </li>
+  <li>#step 7 ->  npx nodemon server.js </li>
+</ul>
